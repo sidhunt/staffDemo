@@ -6,7 +6,12 @@
       "relation": "Mother",
       "photo": "https://us.123rf.com/450wm/rawpixel/rawpixel1704/rawpixel170462494/76771026-indian-girl-smiling-casual-studio-portrait.jpg?ver=6"
     },
-    null,
+    {
+      "id": "1",
+      "name": "B. Nandita",
+      "relation": "Sister",
+      "photo": "https://us.123rf.com/450wm/rawpixel/rawpixel1704/rawpixel170462494/76771026-indian-girl-smiling-casual-studio-portrait.jpg?ver=6"
+    },
     {
       "id": "2",
       "name": "Swati S.",
